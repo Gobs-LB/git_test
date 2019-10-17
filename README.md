@@ -1,1 +1,1 @@
-This is Gobs firs git project!
+This is Gobs first git project!
